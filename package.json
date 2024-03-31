@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve --host localhost --port 8080",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "sass": "node-sass --watch src/styles/scss/main.scss -o src/styles/css"
+    "sass": "node-sass --watch src/styles/scss/main.scss -o src/styles/css",
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@babel/core": "^7.12.3",
@@ -28,6 +29,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-plugin-vue": "^6.2.2",
+    "gh-pages": "^6.1.1",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
@@ -48,5 +50,6 @@
     "> 1%",
     "last 2 versions",
     "not dead"
-  ]
+  ],
+  "homepage": "https://adnanb97.github.io/coolpool/"
 }
