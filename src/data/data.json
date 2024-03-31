@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name": {
+        "first": "PBC Cool-Pool",
+        "last": ""
+    },
+    "logo": true,
+    "titles": [
+      "Billardzentrum.",
+      "Billardhimmel."
+    ],
+    "headings": {
+      "about": "About",
+      "skills": "Team",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "bio": "Gegründet im Jahr 2002, steht der Billardclub in Klagenfurt als Zeugnis jahrelanger Kameradschaft und Können. Seit seiner Gründung ist er ein Treffpunkt für Enthusiasten und fördert eine Gemeinschaft leidenschaftlicher Spieler. Im Laufe der Jahre hat er unzählige denkwürdige Spiele erlebt und Siege gefeiert, wodurch er seinen Platz als Eckpfeiler der lokalen Billardszene festigt. Mit jedem Stoß bewahrt er den Geist von Fairplay und Wettbewerb, der den Club auszeichnet.",
+    "tagline": "Präzision. Leidenschaft. Spiel - Willkommen in unserer Billardgemeinschaft!",
+    "facts": [
+      {"name": "Adresse",
+      "value": "St. Peter Strasse 5/2/219"
+      },
+      {"name": "Stadt",
+      "value": "Klagenfurt am Wörthersee (9020)"
+      },
+      {"name": "Land",
+      "value": "Österreich"
+      },
+      {"name": "Telefonnummer",
+        "value": "+43 676 602 8794"
+      },
+      {"name": "E-Mail",
+        "value": "ingo@radler.cc"
+      }
+    ]
+  },
+  "skills": {
+    "people": [
+      {
+        "name": "Adnan Brđanin", 
+        "flag": "https://www.iconarchive.com/download/i109067/wikipedia/flags/BA-Bosnia-and-Herzegovina-Flag.1024.png"
+      },
+      {
+        "name": "Günter Kleewein", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Ian Malek", 
+        "flag": "https://flagsofallnations.com.au/cdn/shop/products/1280px-Flag_of_Germany_svg-500x500.png?v=1558054628"
+      },
+      {
+        "name": "Arno Malle", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Mary-Luiza Mischitz", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Günther Mühlbacher", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Marco Radetzky", 
+        "flag": "https://flagsofallnations.com.au/cdn/shop/products/1280px-Flag_of_Germany_svg-500x500.png?v=1558054628"
+      },
+      {
+        "name": "Ingo Radler", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Christof Salbrechter", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Gregor Steindorfer", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Franz Strauss", 
+        "flag": "https://flagsofallnations.com.au/cdn/shop/products/1280px-Flag_of_Germany_svg-500x500.png?v=1558054628"
+      },
+      {
+        "name": "Alexander Ströher", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Michael Weiss", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      },
+      {
+        "name": "Peter Wieser", 
+        "flag": "https://www.iconarchive.com/download/i109062/wikipedia/flags/AT-Austria-Flag.1024.png"
+      }
+    ] 
+  },
+  "portfolio": {
+    "defaultFilter": "fotos",
+    "projects": [
+      {
+        "title": "Billiard",
+        "description": "Billiard pool",
+        "image": "billiard1.jpg",
+        "filter": "fotos"
+      },
+      {
+        "title": "Adnan",
+        "description": "Adnan Brđanin",
+        "image": "adnan.jpg",
+        "filter": "fotos"
+      },
+      {
+        "title": "Alex",
+        "description": "Alexander Ströher",
+        "image": "alex.jpg",
+        "filter": "fotos"
+      },
+      {
+        "title": "Franz",
+        "description": "Franz Strauss",
+        "image": "franz.jpg",
+        "filter": "fotos"
+      },
+      {
+        "title": "Franz",
+        "description": "Franz Strauss",
+        "image": "franz2.jpg",
+        "filter": "fotos"
+      },
+      {
+        "title": "Franz und Mary",
+        "description": "Franz Strauss und Mary-Luiza Mischitz",
+        "image": "franzUndMary.jpg",
+        "filter": "fotos"
+      },
+      {
+        "title": "Marco",
+        "description": "Marco Radetzky",
+        "image": "marco.jpg",
+        "filter": "fotos"
+      },
+      {
+        "title": "Mary",
+        "description": "Mary-Luiza Mischitz",
+        "image": "mary.jpg",
+        "filter": "fotos"
+      },
+      {
+        "title": "Mary",
+        "description": "Mary-Luiza Mischitz",
+        "image": "mary2.jpg",
+        "filter": "fotos"
+      }
+    ]
+  },
+  "contact":{
+    "text": "Wir freuen uns auf Ihre Nachrichten..",
+    "formTitle": "Schicken Sie uns eine Nachricht.",
+    "formEndPoint": "",
+    "city": "Klagenfurt, Österreich",
+    "email": "ingo@radler.cc",
+    "phone": "+43 676 602 8794",
+    "resumeLink": "",
+    "form": false,
+    
+    "social": [
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com/CoolPoolBillardclubKlagenfurt/?locale=de_DE",
+          "faClass": "fab fa-facebook-f"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/bobross_thejoyofpainting/",
+          "faClass": "fab fa-instagram"
+        }
+      ]
+  },
+  "footer": {
+    "copyrightText": "All Rights Reserved."
+  }
+}
